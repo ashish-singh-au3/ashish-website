@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "42d289a4094c9985c329",
+    "revision": "d19f847d0f4781369e78",
     "url": "/ashish-website/static/css/main.34e1ed8a.chunk.css"
   },
   {
-    "revision": "42d289a4094c9985c329",
-    "url": "/ashish-website/static/js/main.cf9e65a0.chunk.js"
+    "revision": "d19f847d0f4781369e78",
+    "url": "/ashish-website/static/js/main.bd7d2805.chunk.js"
   },
   {
     "revision": "f13e2b07f58fb9ae5fed",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/ashish-website/static/media/code_brackets-512.0d4f14eb.webp"
   },
   {
-    "revision": "e25c72242f2d59b636921618222bdb7a",
-    "url": "/ashish-website/static/media/ashish.e25c7224.jpg"
+    "revision": "21dc0059674584b9d38bcc62f3f00369",
+    "url": "/ashish-website/static/media/new.21dc0059.jpg"
   },
   {
     "revision": "064dc5216deeb53a94bc2fd864f3f581",
@@ -148,12 +148,12 @@ self.__precacheManifest = [
     "url": "/ashish-website/static/media/ionicons.621bd386.svg"
   },
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/ashish-website/static/media/fontawesome-webfont.674f50d2.eot"
-  },
-  {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
     "url": "/ashish-website/static/media/fontawesome-webfont.af7ae505.woff2"
+  },
+  {
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/ashish-website/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
     "revision": "b06871f281fee6b241d60582ae9369b9",
@@ -164,11 +164,11 @@ self.__precacheManifest = [
     "url": "/ashish-website/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/ashish-website/static/media/fontawesome-webfont.fee66e71.woff"
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/ashish-website/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
-    "revision": "6647e9770d5d185cae614c17e15edcaf",
+    "revision": "8a7f91a43e660adab17aab0e1b90046a",
     "url": "/ashish-website/index.html"
   }
 ];
