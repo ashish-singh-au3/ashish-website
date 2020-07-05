@@ -1,6 +1,6 @@
-# ashish-website
+# Ashish-website
 
-# Welcome To My Portfolio, feel free to explore and let me know in case of any query.
+# Welcome To My Portfolio.
 
 Tech Stack used :
 
