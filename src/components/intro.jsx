@@ -1,7 +1,6 @@
 import React from "react";
 import "./stars.scss";
 import Typed from "react-typed";
-//import imageOverlay from "../img/photo-1542831371-29b0f74f9713.jpg"
 
 class Intro extends React.Component {
   render() {
@@ -20,10 +19,10 @@ class Intro extends React.Component {
                 <strong className="text-slider">
                   <Typed
                     strings={[
-                      "MERN Stack Developer",
-                      "Front End Developer",
+                      "I am a MERN Stack Developer,",
+                      "Front End Developer,",
                       "Back End Developer",
-                      "Full Stack Developer",
+                      "and Full Stack Developer.",
                     ]}
                     typeSpeed={80}
                     backDelay={1100}
@@ -43,13 +42,6 @@ class Intro extends React.Component {
                   View My Resume{" "}
                   <i class="fa fa-download" aria-hidden="true"></i>
                 </a>
-                {/* <a 
-                      className="btn btn-primary btn js-scroll px-4 ml-5" 
-                      style={{ cursor: "pointer" }}
-                      href="#work"
-                    >
-                      View My Work
-                    </a> */}
               </p>
             </div>
           </div>
