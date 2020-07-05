@@ -13,7 +13,7 @@ class Intro extends React.Component {
         <div className="intro-content display-table">
           <div className="table-cell">
             <div className="container">
-              <h4 className="intro-title">Hi,Myself Ashish!!!</h4>
+              <h4 className="intro-title">Hey!! Ashish this side,</h4>
               <p className="intro-subtitle">
                 <span className="text-slider-items"></span>
                 <strong className="text-slider">
