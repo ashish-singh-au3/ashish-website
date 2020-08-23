@@ -64,7 +64,7 @@ class Portfolio extends React.Component {
           webLink: "",
 
           githubLink:
-            "https://github.com/ashish-singh-au3/Movie-Information-App",
+            "https://github.com/ashish-singh-au3/Google-search-engine-clone",
           description:
             "Google clone is exactly similar to real time Google search engine where you can search anything as you do in Google",
           stack: [
