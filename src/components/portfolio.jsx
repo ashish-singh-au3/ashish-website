@@ -2,6 +2,16 @@ import React from "react";
 
 import { Tabs, Tab } from "react-bootstrap-tabs";
 
+//import Google-Search engine App
+
+import g from "../img/google-clone/g.png";
+import g1 from "../img/google-clone/g1.png";
+import g2 from "../img/google-clone/g2.png";
+import g3 from "../img/google-clone/g3.png";
+import g4 from "../img/google-clone/g4.png";
+import g5 from "../img/google-clone/g5.png";
+import g6 from "../img/google-clone/g6.png";
+
 //import Blog-App
 
 import s from "../img/Blog-app/s.png";
@@ -49,6 +59,30 @@ class Portfolio extends React.Component {
     super();
     this.state = {
       projects: [
+        {
+          title: "Google Clone",
+          webLink: "",
+
+          githubLink:
+            "https://github.com/ashish-singh-au3/Movie-Information-App",
+          description:
+            "Google clone is exactly similar to real time Google search engine where you can search anything as you do in Google",
+          stack: [
+            "ReactJs",
+            "Redux",
+            "Google Developers API",
+            "NodeJs",
+            "Javascript",
+            "Material-UI",
+            "CSS",
+          ],
+          image: g,
+          image1: g1,
+          images: [g2, g3, g4, g5],
+          dataLightbox: "gallery-GoogleCloneAPp",
+          type: "web-app",
+        },
+
         {
           title: "Movie-Info App",
           webLink: "https://quiet-castle-39185.herokuapp.com/#/",
