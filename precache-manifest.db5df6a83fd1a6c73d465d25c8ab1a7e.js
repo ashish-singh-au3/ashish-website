@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "10ce90d0934142151faa",
+    "revision": "7d5904266834e4d7ecd7",
     "url": "/ashish-website/static/css/main.34e1ed8a.chunk.css"
   },
   {
-    "revision": "10ce90d0934142151faa",
-    "url": "/ashish-website/static/js/main.6dcb297e.chunk.js"
+    "revision": "7d5904266834e4d7ecd7",
+    "url": "/ashish-website/static/js/main.597d4aa1.chunk.js"
   },
   {
     "revision": "f13e2b07f58fb9ae5fed",
@@ -196,7 +196,7 @@ self.__precacheManifest = [
     "url": "/ashish-website/static/media/g6.6c904f07.png"
   },
   {
-    "revision": "220a2da6e5ba112600d3228f76d3ca2f",
+    "revision": "ec15d2f26f258a38e14b7239c8a8f7e9",
     "url": "/ashish-website/index.html"
   }
 ];
