@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "5695b3404be07b3c8d93",
+    "revision": "1b08bfb6504b4991c7bc",
     "url": "/ashish-website/static/css/main.34e1ed8a.chunk.css"
   },
   {
-    "revision": "5695b3404be07b3c8d93",
-    "url": "/ashish-website/static/js/main.7f3b79e4.chunk.js"
+    "revision": "1b08bfb6504b4991c7bc",
+    "url": "/ashish-website/static/js/main.74272bd5.chunk.js"
   },
   {
     "revision": "f13e2b07f58fb9ae5fed",
     "url": "/ashish-website/static/js/runtime~main.e042374a.js"
   },
   {
-    "revision": "3c83798da5d170872f0c",
+    "revision": "795bf90930bc6a8b7b43",
     "url": "/ashish-website/static/css/2.79e0902d.chunk.css"
   },
   {
-    "revision": "3c83798da5d170872f0c",
-    "url": "/ashish-website/static/js/2.7a068be7.chunk.js"
+    "revision": "795bf90930bc6a8b7b43",
+    "url": "/ashish-website/static/js/2.4693a53e.chunk.js"
   },
   {
     "revision": "0d4f14eb4ef931e99f7bd7cbea5ed1d0",
@@ -26,6 +26,30 @@ self.__precacheManifest = [
   {
     "revision": "21dc0059674584b9d38bcc62f3f00369",
     "url": "/ashish-website/static/media/new.21dc0059.jpg"
+  },
+  {
+    "revision": "53a4eca6270470dd112e5dc9b01a3456",
+    "url": "/ashish-website/static/media/g.53a4eca6.png"
+  },
+  {
+    "revision": "a9edbfe8571f71754f1c4c210b941453",
+    "url": "/ashish-website/static/media/g1.a9edbfe8.png"
+  },
+  {
+    "revision": "07f736fc348a6df0159a98e214a912d9",
+    "url": "/ashish-website/static/media/g2.07f736fc.png"
+  },
+  {
+    "revision": "b18833d1815247a83cd833cfa10a04af",
+    "url": "/ashish-website/static/media/g3.b18833d1.png"
+  },
+  {
+    "revision": "639121dea6ac7bea6885e5e0c7de6616",
+    "url": "/ashish-website/static/media/g4.639121de.png"
+  },
+  {
+    "revision": "40c7b6b88124e91c7215d7975528eb11",
+    "url": "/ashish-website/static/media/g5.40c7b6b8.png"
   },
   {
     "revision": "064dc5216deeb53a94bc2fd864f3f581",
@@ -136,12 +160,12 @@ self.__precacheManifest = [
     "url": "/ashish-website/static/media/ionicons.2c2ae068.eot"
   },
   {
-    "revision": "24712f6c47821394fba7942fbb52c3b2",
-    "url": "/ashish-website/static/media/ionicons.24712f6c.ttf"
-  },
-  {
     "revision": "05acfdb568b3df49ad31355b19495d4a",
     "url": "/ashish-website/static/media/ionicons.05acfdb5.woff"
+  },
+  {
+    "revision": "24712f6c47821394fba7942fbb52c3b2",
+    "url": "/ashish-website/static/media/ionicons.24712f6c.ttf"
   },
   {
     "revision": "621bd386841f74e0053cb8e67f8a0604",
@@ -152,12 +176,12 @@ self.__precacheManifest = [
     "url": "/ashish-website/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/ashish-website/static/media/fontawesome-webfont.fee66e71.woff"
-  },
-  {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/ashish-website/static/media/fontawesome-webfont.674f50d2.eot"
+  },
+  {
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/ashish-website/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
     "revision": "b06871f281fee6b241d60582ae9369b9",
@@ -168,7 +192,11 @@ self.__precacheManifest = [
     "url": "/ashish-website/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "557d0f5c1385676494440c39598e186a",
+    "revision": "6c904f0782d4a2a32ab1870f376c30e3",
+    "url": "/ashish-website/static/media/g6.6c904f07.png"
+  },
+  {
+    "revision": "be83f86e38e0e815845cea4b39b18132",
     "url": "/ashish-website/index.html"
   }
 ];
