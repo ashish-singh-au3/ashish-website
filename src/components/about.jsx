@@ -9,27 +9,33 @@ class About extends React.Component {
         {
           id: "HTML_CSS_skill",
           content: "HTML / CSS",
-          percentage: "90%",
-          value: "90",
+          percentage: "95%",
+          value: "95",
         },
         {
           id: "JavaScript_skill",
           content: "JavaScript",
-          percentage: "85%",
-          value: "85",
+          percentage: "95%",
+          value: "95",
         },
         {
           id: "ReactJS_skill",
           content: "ReactJS",
-          percentage: "85%",
-          value: "85",
+          percentage: "95%",
+          value: "95",
         },
 
         {
           id: "NodeJS_skill",
-          content: "NodeJS / ExpressJS",
+          content: "Node.Js",
           percentage: "85%",
-          value: "85",
+          value: "90",
+        },
+        {
+          id: "Express_skill",
+          content: "Express.Js",
+          percentage: "85%",
+          value: "90",
         },
         {
           id: "MongoDB_skill",
@@ -38,10 +44,10 @@ class About extends React.Component {
           value: "90",
         },
         {
-          id: "Python_skill",
-          content: "Python",
-          percentage: "40%",
-          value: "40",
+          id: "Go",
+          content: "Go",
+          percentage: "60%",
+          value: "60",
         },
       ],
       about_me: [

@@ -14,13 +14,13 @@ class Timeline extends Component {
     this.state = {
       work_list: [
         {
-          company: "AttainU",
-          role: "Full stack Developer",
-          time: "08/2019 - 04/2020",
+          company: "Buddy",
+          role: "CEO/Founder",
+          time: "01/2020 - Present",
           description: [
-            "I have worked on MERN stack as a full stack developer where I have learned a lot with my fellow members from the bootcamp.",
-            "I have developed quite a few applications during that period which can be found over GitHub",
-            "Honed up my skills as a full stack developer",
+            "After analyzing b2c market during my college days I hopped on my new venture called .Buddy in order to bring complete transparency for users . ",
+
+            "I am currently building the prototype model of Buddy and handling a team of four people.",
           ],
 
           icon: <MdWork />,
@@ -32,7 +32,7 @@ class Timeline extends Component {
           company: "BYJU's",
           time: "07/2019 - 09/2019",
           description: [
-            "I was in my training period where I was guided on analyzing the market and coming up with new product features which can be an add-on to existing products",
+            "I was in my training period where I was guided on analyzing the market and coming up with new product features which can be an add-on to existing products .",
           ],
 
           icon: <MdWork />,
@@ -52,11 +52,11 @@ class Timeline extends Component {
           iconColor: " #b30000",
         },
         {
-          role: "Web Developer Intern",
+          role: "Web Developer",
           company: "IBM",
           time: "06/2017 - 07/2017",
           description: [
-            "Got selected for summer internship program by IBM and got scholarship as well for Apprentice Training",
+            "Got selected for summer internship program by IBM and got scholarship as well for Apprentice Training .",
           ],
 
           icon: <MdWork />,
@@ -73,10 +73,19 @@ class Timeline extends Component {
           iconColor: "#4da1ff",
         },
         {
-          role: "HSC - 12th",
+          role: "HSC (PCM) - 12th",
           company: "Dayawati Modi Academy-1",
+          time: "04/2012 - 04/2014",
+          description: ["78.50%"],
+          icon: <FaGraduationCap />,
+          iconBackgroundColor: "white",
+          iconColor: "#4da1ff",
+        },
+        {
+          role: "SSC - 10th",
+          company: "National Public School",
           time: "05/2012 - 06/2014",
-          description: ["78.50 %"],
+          description: ["80%"],
           icon: <FaGraduationCap />,
           iconBackgroundColor: "white",
           iconColor: "#4da1ff",

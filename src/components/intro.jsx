@@ -34,7 +34,7 @@ class Intro extends React.Component {
                 <a
                   className="btn btn-dark btn js-scroll px-4"
                   style={{ cursor: "pointer" }}
-                  href={`https://drive.google.com/file/d/1MLty0NmSgHh5m8FcDepC-hX_zwJtemST/view?usp=sharing?${new Date().getTime()}`}
+                  href={`https://drive.google.com/file/d/1CpMmuSc8rFugg1cG3vGyyl6nNLJQR9Sh/view?usp=sharing?${new Date().getTime()}`}
                   // eslint-disable-next-line react/jsx-no-target-blank
                   target="_blank"
                 >
